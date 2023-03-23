@@ -1,5 +1,6 @@
 
 ### Olá! eu sou o Matheus Chaves de Farias ✌️ 
+### Meu Email: matheusc.farias123@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-chaves-de-farias-35682819a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusc.farias/)
